@@ -67,13 +67,13 @@ Some critical logic is intentionally removed for intellectual property protectio
 
 🖼️ Screenshots
 
-[Main Page](/public/screenshots/speedup_main.png)
+![Main Page](public/screenshots/speedup_main.png)
 
-[Settings Page](/public/screenshots/speedup_settings.png)
+![Settings Page](public/screenshots/speedup_settings.png)
 
-[Login and Registration Page](/public/screenshots/speedup_training.png)
+![Login and Registration Page](public/screenshots/speedup_training.png)
 
-[Presets Page](/public/screenshots/speedup_presets.png)
+![Presets Page](public/screenshots/speedup_presets.png)
 
 ---
 
@@ -87,4 +87,4 @@ Frontend, backend and full architecture — built solo.
 ## 📄 License
 
 This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License**.  
-See the [`LICENSE`](./LICENSE) file for details.
+See the [`LICENSE.txt`](./LICENSE.txt) file for details.
