@@ -61,6 +61,7 @@ Unit tests are implemented for key business logic like metronome template valida
 ```bash
 npm install
 npm run dev
+```
 
 ⚠️ This frontend is not intended for local production use.
 Some critical logic is intentionally removed for intellectual property protection.
@@ -68,8 +69,11 @@ Some critical logic is intentionally removed for intellectual property protectio
 🖼️ Screenshots
 
 ![Main Page](screenshots/speedup_main.png)
+
 ![Settings Page](screenshots/speedup_settings.png)
+
 ![Login and Registration Page](screenshots/speedup_training.png)
+
 ![Presets Page](screenshots/speedup_presets.png)
 
 ---
