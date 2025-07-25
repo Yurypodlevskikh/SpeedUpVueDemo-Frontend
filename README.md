@@ -67,13 +67,10 @@ Some critical logic is intentionally removed for intellectual property protectio
 
 🖼️ Screenshots
 
-[Main Page](/public/screenshots/speedup_main.png)
-
-[Settings Page](/public/screenshots/speedup_settings.png)
-
-[Login and Registration Page](/public/screenshots/speedup_training.png)
-
-[Presets Page](/public/screenshots/speedup_presets.png)
+![Main Page](screenshots/speedup_main.png)
+![Settings Page](screenshots/speedup_settings.png)
+![Login and Registration Page](screenshots/speedup_training.png)
+![Presets Page](screenshots/speedup_presets.png)
 
 ---
 
