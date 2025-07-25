@@ -75,7 +75,7 @@ Some critical logic is intentionally removed for intellectual property protectio
 <img src="screenshots/speedup_settings.png" alt="Settings Page" width="200"/>
 
 ### Login and Registration
-<img src="screenshots/speedup_training.png" alt="Login and Registration Page" width="200"/>
+<img src="screenshots/speedup_login.png" alt="Login and Registration Page" width="200"/>
 
 ### Presets Page
 <img src="screenshots/speedup_presets.png" alt="Presets Page" width="200"/>
