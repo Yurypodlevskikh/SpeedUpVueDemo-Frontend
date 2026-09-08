@@ -1,3 +1,10 @@
+⚠️ This repository is no longer the main SpeedUp repository.
+
+SpeedUp has been reorganized into a full-stack solution with frontend, backend, authentication and CI/CD.
+
+Please see the current repository:
+→ Yurkinsson.Platform: https://github.com/Yurypodlevskikh/Yurkinsson.Platform.git
+
 # 🎵 SpeedUpVueDemo-Frontend
 
 > **SpeedUp** is a smart metronome designed for musicians who want to develop consistent tempo control 
